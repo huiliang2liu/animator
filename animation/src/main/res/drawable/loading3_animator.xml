@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/loading3">
+    <target
+        android:animation="@animator/loading3_group_animotor"
+        android:name="group"/>
+
+    <target
+        android:animation="@animator/loading3_path_animotor"
+        android:name="path"/>
+
+    <target
+        android:animation="@animator/loading3_color_animotor"
+        android:name="path"/>
+
+</animated-vector>

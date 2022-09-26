@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/loading2">
+    <target
+        android:name="loading2"
+        android:animation="@animator/loading2_animotor" />
+    <target
+        android:name="color1"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color2"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color3"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color4"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color5"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color6"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color7"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color8"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color9"
+        android:animation="@animator/loading2_color_animotor" />
+    <target
+        android:name="color10"
+        android:animation="@animator/loading2_color_animotor" />
+
+</animated-vector>

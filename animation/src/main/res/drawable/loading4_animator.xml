@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/loading4">
+    <target
+        android:name="circle1"
+        android:animation="@animator/loading4_group_animotor" />
+
+    <target
+        android:name="color1"
+        android:animation="@animator/loading4_color_animotor" />
+    <target
+        android:name="color2"
+        android:animation="@animator/loading4_color2_animotor" />
+
+</animated-vector>
